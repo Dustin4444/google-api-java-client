@@ -545,7 +545,7 @@
     <project.datanucleus-maven-plugin.version>4.0.3</project.datanucleus-maven-plugin.version>
     <project.servlet-api.version>2.5</project.servlet-api.version>
     <!-- jakarta-servlet-api 5.0.0 is the last version that works with Java 8 -->
-    <project.jakarta-servlet-api.version>5.0.0</project.jakarta-servlet-api.version>
+    <project.jakarta-servlet-api.version>6.1.0</project.jakarta-servlet-api.version>
     <deploy.autorelease>false</deploy.autorelease>
     <gson.version>2.11.0</gson.version>
   </properties>
